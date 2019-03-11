@@ -1,0 +1,15 @@
+{
+    "name": "GP2Y1051",
+    "version": "0.0.1",
+    "description": "這是專為micro:bit提供的PM2.5感應積木(This is the blocks for Sharp GP2Y1051 to measure the concentration of PM2.5)",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh/GP2Y1051-strings.json"
+    ],
+    "public": true
+}

@@ -1,0 +1,5 @@
+{
+    "GP2Y1051|block": "PM2.5",
+    "GP2Y1051.setSerial|block": "設定 GP2Y1051 連結到引腳 %pin",  
+    "GP2Y1051.getData|block": "PM2.5濃度(ug/m3)"
+}
